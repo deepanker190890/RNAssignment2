@@ -2,6 +2,26 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 # Getting Started
 
+# React Native Assignments
+
+## 📸 App Screenshots
+
+### Login Screen  
+![Login](./assets/screenshots/login.png)
+
+### Expense Tracker Screen  
+![Expense Tracker](./assets/screenshots/expense_tracker.png)
+
+### News Reader Screen  
+![News Reader](./assets/screenshots/news_reader.png)
+
+### Weather Dashboard Screen  
+![Weather Dashboard](./assets/screenshots/weather_dashboard.png)
+
+### Product List Screen  
+![Product List](./assets/screenshots/product_list.png)
+
+
 > **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
 
 ## Step 1: Start Metro
