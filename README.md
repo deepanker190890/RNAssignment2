@@ -7,19 +7,19 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 ## 📸 App Screenshots
 
 ### Login Screen  
-![Login](./assets/screenshots/login.png)
+![Login](./assets/screenshots/login.jpeg)
 
 ### Expense Tracker Screen  
-![Expense Tracker](./assets/screenshots/expense_tracker.png)
+![Expense Tracker](./assets/screenshots/expense.jpeg)
 
 ### News Reader Screen  
-![News Reader](./assets/screenshots/news_reader.png)
+![News Reader](./assets/screenshots/news.jpeg)
 
 ### Weather Dashboard Screen  
-![Weather Dashboard](./assets/screenshots/weather_dashboard.png)
+![Weather Dashboard](./assets/screenshots/weather.jpeg)
 
 ### Product List Screen  
-![Product List](./assets/screenshots/product_list.png)
+![Product List](./assets/screenshots/products.jpeg)
 
 
 > **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
